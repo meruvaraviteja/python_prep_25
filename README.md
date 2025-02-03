@@ -3,4 +3,4 @@
 <h3> Create a virtual envornment</h3>
 <p>Open Terminal in vs code and type the following command : conda create -p venv python==3.12 </p>
 <p>To activate the virtual environment type the following command : conda activate venv/</p>
-<p>To run the .py file in the virtual environment that is create type the following command : python file.py</p>
+<p>To run the .py file in the virtual environment that is created type the following command : python file.py</p>
