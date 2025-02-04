@@ -28,7 +28,7 @@ print("LastName",LastName)
 '''
 1. Constant and variable names should have a combination of letters in lowercase,uppercase or digits or an underscore.
 2. Variable name cannot start with a digit
-3. You cant have any special characters except _
+3. You can't have any special characters except '_'
 4. if you want to create a variable name having two words, use underscore to separate them
 5. Python is a case - sensitive. So name and Name are different variables.
 '''

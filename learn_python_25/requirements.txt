@@ -3,3 +3,20 @@ seaborn
 pandas
 matplotlib
 ipykernel
+
+'''
+Commands to  create, activate and deactivate virtual environment 
+1. Open command prompt
+2. conda create -p environment_name python==version
+3. conda activate environment_name/
+4. conda deactivate
+
+Check for auto activation of virtual environment in vs code
+
+conda config --show auto_activate_base
+
+if it returns True disable it.
+
+conda config --set auto_activate_base false
+
+'''
